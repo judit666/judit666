@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi, I'm Judit 👩‍💻👋
 
-<!--
-**judit666/judit666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏠 began with a BSc in Business Information Technology at Corvinus University of Budapest between 2016-2020
+⚡ finished [MSc in Data Science at University of Amsterdam][website] in July, 2021 
+🧠 became a data scientist
+🔭 currently working on my toy projects
 
-Here are some ideas to get you started:
+I worked as a data analyst intern at Deloitte, then as a data scientist intern at a spanish company called Passnfly then concluded my MSc thesis as a machine learning engineer intern. I always enjoyed working on real-life data projects and now I would like to utilize my skills to start my first full-time job as a data scientist. I believe that product data science would be my ideal role, where I could both communicate with stakeholders and other people in the data team as well.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👔 [linkedin][linkedin]
+
+[website]: https://www.uva.nl/en/programmes/masters/information-studies-data-science/data-science.html
+[linkedin]: https://www.linkedin.com/in/juditgyorfi/
